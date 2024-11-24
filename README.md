@@ -1,3 +1,8 @@
+# OLD REPO _ DONT USE IT !!!!!!!!!!!!!!!!!
+
+My Eggs -> https://github.com/gsrvtech/gameserver-templates
+
+
 # Parkers Pterodactyl eggs repo
 
 I am working on adding a large collection of public eggs for the Pterodactyl community.
